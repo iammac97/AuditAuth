@@ -555,19 +555,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Niharika Reddy\\.nuget\\packages\\": {}
+    "C:\\Users\\mukes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Niharika Reddy\\Downloads\\Audit Management APIs\\Audit Management APIs\\AuditAuth\\AuditAuth\\AuditAuth.csproj",
+      "projectUniqueName": "C:\\Users\\mukes\\OneDrive\\Desktop\\Audit Management APIs\\AuditAuth\\AuditAuth\\AuditAuth.csproj",
       "projectName": "AuditAuth",
-      "projectPath": "C:\\Users\\Niharika Reddy\\Downloads\\Audit Management APIs\\Audit Management APIs\\AuditAuth\\AuditAuth\\AuditAuth.csproj",
-      "packagesPath": "C:\\Users\\Niharika Reddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Niharika Reddy\\Downloads\\Audit Management APIs\\Audit Management APIs\\AuditAuth\\AuditAuth\\obj\\",
+      "projectPath": "C:\\Users\\mukes\\OneDrive\\Desktop\\Audit Management APIs\\AuditAuth\\AuditAuth\\AuditAuth.csproj",
+      "packagesPath": "C:\\Users\\mukes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mukes\\OneDrive\\Desktop\\Audit Management APIs\\AuditAuth\\AuditAuth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Niharika Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mukes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -620,7 +620,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

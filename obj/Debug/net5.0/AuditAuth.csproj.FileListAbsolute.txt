@@ -103,3 +103,38 @@ C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\Au
 C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
 C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
 C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.exe
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.deps.json
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.json
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.dev.json
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.pdb
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.AssemblyReference.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfoInputs.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfo.cs
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CoreCompileInputs.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\scopedcss\bundle\AuditAuth.styles.css
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\staticwebassets\AuditAuth.StaticWebAssets.Manifest.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.RazorTargetAssemblyInfo.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CopyComplete
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\refint\AuditAuth.dll
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
+C:\Users\mukes\OneDrive\Desktop\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll
