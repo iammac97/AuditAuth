@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "djl9k2cezReuru6EYzDxzg72QKlOOOn7SAuNEgPxOH1xxFdPSmeTXAKMAqa2QwuQYIVoXE0LOnRQWKWdT7thTA==",
+  "dgSpecHash": "Pm9g5z9jC4R9ENWSqjRVztHZZN7kAWyWr64Sgd4zUr2OA8wO3iXltpIeOX405C69dxvloZIEbkBpdh21tNyyIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mukes\\OneDrive\\Desktop\\Audit Management APIs\\AuditAuth\\AuditAuth\\AuditAuth.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\mukes\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\mukes\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\mukes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mukes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\mukes\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\mukes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\mukes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
